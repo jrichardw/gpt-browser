@@ -5,6 +5,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "puppeteer": "^your-installed-version"
+    "puppeteer": "^22.1.0"
   }
 }
